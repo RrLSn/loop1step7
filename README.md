@@ -14,7 +14,7 @@ CSS
 
 # Demo
 [preview](https://rawcdn.githack.com/RrLSn/loop1step7/537ea76f73158f9ed93100a5d8a1081fcb419451/index.html)
-![screenshot](./media/Screenshot%202022-10-31%20171414.png)
+![screenshot](./media/Screenshot%202022-11-02%20122208.png)
 
 # Contact
 If you want to contact me, you can reach me at
