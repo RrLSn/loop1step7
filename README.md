@@ -1,6 +1,6 @@
 # loop1step7
 # fcc-Loop assignment
-An implementation of Loop 7 assignment step 4 with HTML/CSS
+An implementation of Loop 1 assignment step 7 with HTML/CSS
 
 # Getting Started
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
